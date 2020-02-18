@@ -1,0 +1,1 @@
+case class GnuCashTransaction(D: String, T: String, M: String, N: String, C: Option[String], L: String, split: Seq[SplitTransactionItem])

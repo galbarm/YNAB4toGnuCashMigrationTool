@@ -1,0 +1,1 @@
+case class Account(name: String, transactions: Seq[GnuCashTransaction])
